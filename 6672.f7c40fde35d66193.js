@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbricks_docs=self.webpackChunkbricks_docs||[]).push([[6672],{6672:(d,e,a)=>{a.r(e),a.d(e,{bds_tab_panel:()=>n});var s=a(4403);const n=class{constructor(c){(0,s.r)(this,c)}render(){return(0,s.h)(s.H,{key:"a4b254edd86122bc3167e2c293b6aaea561faaf3"},(0,s.h)("slot",{key:"23f4178dea9a0667df5978c07c097a1a4bd38a4b"}))}};n.style=":host{display:block}"}}]);
